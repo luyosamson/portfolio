@@ -57,20 +57,10 @@
 
 ⚡ Fun fact? **Find me behind the guitar 🎸, harmonica 🎺 or piano 🎹**
 
-### My work
-
-🔭 I’m currently working on [Elewa](https://github.com/italanta/elewa)
-<!-- OR -->
-🔭 I’m currently working on [Kujali](https://github.com/italanta/kujali)
-
-<!-- TODO: Update at the end of every day with your  -->
-🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
-
-👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/italanta)
 
 ### Interested ?
 
-📫 Reach me on **jente@elewa.ke**
+📫 Reach me on **luyosamson@gmail.com**
 
 <br />
 
@@ -82,16 +72,17 @@
 <h1>My experience</h1>
 
 <!-- EXPERIENCE I -->
-<h2 align="left">Project Kujali</h2>
+<h2 align="left">Blossoms</h2>
 
 <p align="right"><b>2023</b></p>
 
 <p>
-  Kujali is a financial manager that allows businesses to plan for their spending through financial forecasts, and then to track their actual expenditure against what was forecasted.
+Blossoms is an e-commerce platform for selling and buying indoor plants,flowers and gifts.It allows sellers to post there product,update the product price,in stock status and more information of the product.
+Customers can log in the platform and order for the products
 </p>
 <p>
   <!-- Add summary of your own contributions -->
-  I have developed the base architecture for the financial management system, as well as designed and tested different cards for the development team to implement.
+ I have integrated mpesa payment system
 </p>
 <br/>
 
