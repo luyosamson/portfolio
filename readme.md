@@ -103,7 +103,7 @@ Customers can log in the platform and order for the products
 
 #
 <!-- EXPERIENCE II -->
-<h2 align="left">Project Elewa</h2>
+<!-- <h2 align="left">Project Elewa</h2>
 
 <p align="right"><b>2022 - 2023</b></p>
 
@@ -112,9 +112,9 @@ Customers can log in the platform and order for the products
 </p>
 <p>
   <!-- Add summary of your own contributions -->
-  I have developed the base architecture for the visual chatbot editor, as well as was instrumental in the design of the chatbot engine.
+  <!-- I have developed the base architecture for the visual chatbot editor, as well as was instrumental in the design of the chatbot engine.
 </p>
-<br/>
+<br/> --> -->
 
 <!-- Link in this table your actual contributions -->
 ### My contributions
