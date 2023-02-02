@@ -47,13 +47,13 @@
 
 ### Get to know me
 
-💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.**
+💬 I'm an expert on **React,Ruby on Rail and Javascript.**
 
 📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/)
 
 📄 Know about my experiences [through my CV](about/resume.md)
 
-🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**.
+🌱 I’m currently developing **E-commerce website for selling and buying indoor plants,flowers and gifts**.
 
 ⚡ Fun fact? **Find me behind the guitar 🎸, harmonica 🎺 or piano 🎹**
 
